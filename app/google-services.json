@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1038778324279",
+    "firebase_url": "https://notifycambot-c2dc7.firebaseio.com",
+    "project_id": "notifycambot-c2dc7",
+    "storage_bucket": "notifycambot-c2dc7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038778324279:android:ef0efeb3366cac6c",
+        "android_client_info": {
+          "package_name": "com.minor.notifycambot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1038778324279-379bv8f31uupn35d88ovlabr595dddm4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.minor.notifycambot",
+            "certificate_hash": "4a2f19909cfdd24498b5aebfbaf3cc3b6533ed63"
+          }
+        },
+        {
+          "client_id": "1038778324279-u3jajdviqtq2nalairv8o34mib5e8d9p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnMC1LeqYD-KMSyZMaTLduakNFtbHke04"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1038778324279-u3jajdviqtq2nalairv8o34mib5e8d9p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
